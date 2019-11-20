@@ -62,7 +62,7 @@ export default class AboutBuildModal extends React.PureComponent {
         let title = (
             <FormattedMessage
                 id='about.teamEditiont0'
-                defaultMessage='Team Edition'
+                defaultMessage='STalk Team Edition'
             />
         );
 
@@ -82,9 +82,9 @@ export default class AboutBuildModal extends React.PureComponent {
                 <a
                     target='_blank'
                     rel='noopener noreferrer'
-                    href='http://www.mattermost.org/'
+                    href='http://www.saa9vi.com/'
                 >
-                    {'mattermost.org'}
+                    {'saa9vi.com'}
                 </a>
             </div>
         );
@@ -275,7 +275,7 @@ export default class AboutBuildModal extends React.PureComponent {
                         <p>
                             <FormattedMarkdownMessage
                                 id='about.notice'
-                                defaultMessage='Mattermost is made possible by the open source software used in our [server](!https://about.mattermost.com/platform-notice-txt/), [desktop](!https://about.mattermost.com/desktop-notice-txt/) and [mobile](!https://about.mattermost.com/mobile-notice-txt/) apps.'
+                                defaultMessage='Mattermost is made possible by the open source software used in our [server](!https://www.saa9vi.com/), [desktop](!https://www.saa9vi.com/desktop-notice-txt/) and [mobile](!https://www.saa9vi.com.com/mobile-notice-txt/) apps.'
                             />
                         </p>
                     </div>
